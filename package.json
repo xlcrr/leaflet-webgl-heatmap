@@ -1,6 +1,6 @@
 {
   "name": "leaflet-webgl-heatmap",
-  "version": "0.2.7",
+  "version": "0.3.0",
   "description": "A Leaflet plugin for a popular WebGL Heatmap library.",
   "main": "dist/leaflet-webgl-heatmap.min.js",
   "files": [
@@ -15,7 +15,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^2.0.0",
     "jshint": "^2.9.4",
-    "leaflet": "^1.1.0"
+    "leaflet": "^1.7.1"
   },
   "preinstall": "npm i -g casperjs jshint gulp",
   "start": "gulp",
